@@ -11,7 +11,6 @@ public class Main {
         for (int num : arr) {
             System.out.print(num + " ");
         }
-        System.out.println();
     }
 
     public static void selectionSort(int[] arr) {
